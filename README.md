@@ -13,6 +13,6 @@ A collection of sites that will show you nice stats from GitHub
 - [GitHub Visualizer](http://ghv.artzub.com/#user=watson)
 - [CoderStats](http://coderstats.net/github/watson/)
 - [GitHub Awards](http://github-awards.com/users/search?login=watson)
-- [GitHub Followers](http://github-followers.herokuapp.com/watson)
+- [GitHub Followers](http://www.github-followers.com/watson)
 - [Ekisto](http://ekisto.sq.ro) (outdated data)
 - ~~[Open Source Report Card](https://osrc.dfm.io)~~ (offline)
