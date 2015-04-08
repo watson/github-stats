@@ -5,6 +5,7 @@ A collection of sites that will show you nice stats from GitHub
 ## Generic stats
 
 - [GitHut](http://githut.info)
+- [Issue Stats](http://issuestats.com)
 
 ## User centric stats
 
