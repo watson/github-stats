@@ -14,5 +14,6 @@ A collection of sites that will show you nice stats from GitHub
 - [CoderStats](http://coderstats.net/github/watson/)
 - [GitHub Awards](http://github-awards.com/users/search?login=watson)
 - [GitHub Followers](http://www.github-followers.com/watson)
+- [My Github Résumé](http://resume.github.io/?watson)
 - [Ekisto](http://ekisto.sq.ro) (outdated data)
 - ~~[Open Source Report Card](https://osrc.dfm.io)~~ (offline)
