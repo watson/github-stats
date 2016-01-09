@@ -19,3 +19,6 @@ A collection of sites that will show you nice stats from GitHub
 - [GitHub Stats](http://githubstats.lip.is/watson)
 - [Ekisto](http://ekisto.sq.ro) (outdated data)
 - ~~[Open Source Report Card](https://osrc.dfm.io)~~ (offline)
+
+## Repository centric stats
+- [GitChecker](http://www.gitchecker.com/watson/github-stats)
